@@ -10,10 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.dron3.dev/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.dron3.dev/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.dron3.dev/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.dron3.dev/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -22,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</p>
+<p>I. Declare. Bankruptcy!</p>
 
 <p>- Michael Scott</p>
 
