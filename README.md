@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning ROS and C/C++
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mike-lopez/)
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
