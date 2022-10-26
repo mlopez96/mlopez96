@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.dron3.dev/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.dron3.dev/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.dron3.dev/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.dron3.dev/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.dron3.dev/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</p>
+<p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
 
 <p>- Dwight Schrute</p>
 
