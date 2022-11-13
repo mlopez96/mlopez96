@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.dron3.dev/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.dron3.dev/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.dron3.dev/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.dron3.dev/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.dron3.dev/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</p>
+<p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
 
-<p>- Erin Hannon</p>
+<p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
