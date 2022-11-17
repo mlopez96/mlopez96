@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.dron3.dev/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.dron3.dev/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.dron3.dev/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.dron3.dev/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.dron3.dev/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>Dwight, you ignorant slut!</p>
+<p>Everybody stay calm! Stay f*&#!#% calm!</p>
 
 <p>- Michael Scott</p>
 
