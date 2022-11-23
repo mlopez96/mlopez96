@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.dron3.dev/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.dron3.dev/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.dron3.dev/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.dron3.dev/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.dron3.dev/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</p>
+<p>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</p>
 
-<p>- Stanley Hudson</p>
+<p>- Ryan Howard</p>
 
 Check back at the top of the hour for a new quote!
