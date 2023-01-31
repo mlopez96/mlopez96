@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.mikelopez.io/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.mikelopez.io/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.mikelopez.io/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.mikelopez.io/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.mikelopez.io/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+<p>Did I stutter?</p>
 
-<p>- Michael Scott</p>
+<p>- Stanley Hudson</p>
 
 Check back at the top of the hour for a new quote!
