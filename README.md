@@ -10,11 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.mikelopez.io/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.mikelopez.io/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.mikelopez.io/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.mikelopez.io/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.mikelopez.io/post/does-dji-have-an-affiliate-program)
+
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
@@ -23,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</p>
+<p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
 
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
