@@ -19,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
+<p>I. Declare. Bankruptcy!</p>
 
-<p>- Oscar Martinez</p>
+<p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
