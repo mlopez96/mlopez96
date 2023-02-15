@@ -19,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>Shut up about the sun. SHUT UP ABOUT THE SUN!</p>
+<p>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</p>
 
-<p>- Gabe Lewis</p>
+<p>- Andy Bernard</p>
 
 Check back at the top of the hour for a new quote!
