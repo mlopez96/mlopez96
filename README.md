@@ -19,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</p>
+<p>I. Declare. Bankruptcy!</p>
 
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
