@@ -6,7 +6,7 @@ I’m Mike Lopez, an Aerospace Engineer, creative coder and self-proclaimed desi
 - 👀 I’m interested in drones and robotic software development
 - 🌱 I’m currently learning ROS and C/C++
 
-Want to know more about me? [Check out my portfolio.](https://dron3.dev/)
+Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 
 <!-- BLOG-POST-LIST:START -->
