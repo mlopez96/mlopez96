@@ -25,6 +25,6 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 <p>I have a lot of questions. Number one, how dare you?</p>
 
-<p>- Kelly Kapoor</p>
+<p>- Kelly Kapoo</p>
 
 Check back at the top of the hour for a new quote!
