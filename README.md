@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy](https://www.mikelopez.io/post/italy)
-- [&quot;Puerto Rico está bien cabrón&quot;](https://www.mikelopez.io/post/puerto-rico-est%C3%A1-bien-cabr%C3%B3n)
-- [Scuba Diving - Lobster Season!](https://www.mikelopez.io/post/your-title-what-s-your-blog-about)
-- [What is OCLU?](https://www.mikelopez.io/post/what-is-oclu)
-- [Does DJI have an affiliate program?](https://www.mikelopez.io/post/does-dji-have-an-affiliate-program)
+- [What MATLAB tool boxes should I download for Guidance, Navigation, and Control?](https://www.mikelopez.io/post/what-matlab-tool-boxes-should-i-download-for-guidance-navigation-and-control)
+- [What does the u and x mean in chmod u+x my_launch.launch.py](https://www.mikelopez.io/post/what-does-the-u-and-x-mean-in-chmod-u-x-my_launch-launch-py)
+- [Git Pull](https://www.mikelopez.io/post/git-pull)
+- [What is vel_msg = Twist&lpar;&rpar; in ROS Turtlesim cleaner?](https://www.mikelopez.io/post/what-is-vel_msg-twist-in-ros-turtlesim-cleaner)
+- [ROS 2 Cheat Sheet](https://www.mikelopez.io/post/ros-2-cheat-sheet)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
