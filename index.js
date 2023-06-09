@@ -12,9 +12,6 @@ async function main() {
         await fetch("https://officeapi.dev/api/quotes/random")
     ).json();
 
-    console.log(office_quote);
-
-
     const readme = readmeTemplate
         .replace("{office_quote}", office_quote.data.content)
         .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
