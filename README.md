@@ -23,8 +23,6 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 <!-- SKILLS-LIST:END --> 
 
-<p>I have a lot of questions. Number one, how dare you?</p>
+<p>Yesterday you said tomorrow?</p>
 
-<p>- Kelly Kapoo</p>
-
-Check back at the top of the hour for a new quote!
+<p>- Big Ben</p>
