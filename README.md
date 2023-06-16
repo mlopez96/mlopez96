@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write the perfect README.md?](https://www.mikelopez.io/post/how-to-write-the-perfect-readme-md)
 - [Is it possible to automate Yelp Reviews on a Wix Website?](https://www.mikelopez.io/post/is-it-possible-to-automate-yelp-reviews-on-a-wix-website)
 - [What MATLAB tool boxes should I download for Guidance, Navigation, and Control?](https://www.mikelopez.io/post/what-matlab-tool-boxes-should-i-download-for-guidance-navigation-and-control)
 - [What does the u and x mean in chmod u+x my_launch.launch.py](https://www.mikelopez.io/post/what-does-the-u-and-x-mean-in-chmod-u-x-my_launch-launch-py)
 - [Git Pull](https://www.mikelopez.io/post/git-pull)
-- [What is vel_msg = Twist&lpar;&rpar; in ROS Turtlesim cleaner?](https://www.mikelopez.io/post/what-is-vel_msg-twist-in-ros-turtlesim-cleaner)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
