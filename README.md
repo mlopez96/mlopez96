@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://www.mikelopez.io/e
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotics for Autonomous Systems](https://www.mikelopez.io/post/robotics-for-autonomous-systems)
 - [LO Support Equipment](https://www.mikelopez.io/post/lo-support-equipment)
 - [Support Equipment](https://www.mikelopez.io/post/support-equipment)
 - [Intel Real Sense T265](https://www.mikelopez.io/post/intel-real-sense-t265)
 - [UAV in a GPS Denied Environment](https://www.mikelopez.io/post/uav-in-a-gps-denied-environment)
-- [X Class Drone Build](https://www.mikelopez.io/post/x-class-drone-build)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
