@@ -1,4 +1,4 @@
-[![Mike's GitHub Banner](./equipment/MikeLopezBanner.png)](https://dron3.dev)
+[![Mike's GitHub Banner](https://github.com/mlopez96/mlopez96/assets/26072511/0b27f7e6-d41d-4aed-a2db-1180d71f7292)](https://mikelopez.io)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mike-lopez/)
 
 Hello 👋
