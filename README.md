@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 
 <!-- BLOG-POST-LIST:START -->
+- [X Class Drone Build](https://www.mikelopez.io/post/x-class-drone-build)
+- [Cinewhoop Build](https://www.mikelopez.io/post/cinewhoop-build)
+- [FPV Drone Build](https://www.mikelopez.io/post/fpv-drone-build)
+- [3D Printing](https://www.mikelopez.io/post/3d-printing)
 - [Main, Branches, and Tags](https://www.mikelopez.io/post/main-branches-and-tags)
-- [C++ vs Python](https://www.mikelopez.io/post/c-vs-python)
-- [How to write the perfect README.md?](https://www.mikelopez.io/post/how-to-write-the-perfect-readme-md)
-- [Is it possible to automate Yelp Reviews on a Wix Website?](https://www.mikelopez.io/post/is-it-possible-to-automate-yelp-reviews-on-a-wix-website)
-- [What MATLAB tool boxes should I download for Guidance, Navigation, and Control?](https://www.mikelopez.io/post/what-matlab-tool-boxes-should-i-download-for-guidance-navigation-and-control)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
