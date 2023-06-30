@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://mikelopez.io)
 
 
 <!-- BLOG-POST-LIST:START -->
+- [LO Support Equipment](https://www.mikelopez.io/post/lo-support-equipment)
+- [Support Equipment](https://www.mikelopez.io/post/support-equipment)
+- [Intel Real Sense T265](https://www.mikelopez.io/post/intel-real-sense-t265)
+- [UAV in a GPS Denied Environment](https://www.mikelopez.io/post/uav-in-a-gps-denied-environment)
 - [X Class Drone Build](https://www.mikelopez.io/post/x-class-drone-build)
-- [Cinewhoop Build](https://www.mikelopez.io/post/cinewhoop-build)
-- [FPV Drone Build](https://www.mikelopez.io/post/fpv-drone-build)
-- [3D Printing](https://www.mikelopez.io/post/3d-printing)
-- [Main, Branches, and Tags](https://www.mikelopez.io/post/main-branches-and-tags)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
