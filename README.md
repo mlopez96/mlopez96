@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://www.mikelopez.io/e
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Guidance, Navigation, &amp;#38; Control](https://www.mikelopez.io/post/guidance-navigation-control)
+- [Plotting the step response of a system](https://www.mikelopez.io/post/plotting-the-step-response-of-a-system)
+- [Robust pole assignment in linear state feedback](https://www.mikelopez.io/post/robust-pole-assignment-in-linear-state-feedback)
 - [Abaqus Elements](https://www.mikelopez.io/post/abaqus-elements)
 - [GD&amp;#38;T Analysis &lpar;ASME Y 14.5&rpar;](https://www.mikelopez.io/post/gd-t-analysis-asme-y-14-5)
-- [Stability and Control](https://www.mikelopez.io/post/stability-and-control)
-- [Classical Control](https://www.mikelopez.io/post/classical-control)
-- [EML5311: Systems Control - Syllabus](https://www.mikelopez.io/post/eml5311-systems-control-syllabus)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
