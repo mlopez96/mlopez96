@@ -10,11 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://www.mikelopez.io/e
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Leet Code C++ Problem 1. Two Sum](https://www.mikelopez.io/post/leet-code-c-problem-1-two-sum)
 - [How to connect to WiFi from the command line, Ubuntu 20.04?](https://www.mikelopez.io/post/how-to-connect-to-wifi-from-the-command-line-ubuntu-20-04)
 - [Guidance, Navigation, &amp;#38; Control](https://www.mikelopez.io/post/guidance-navigation-control)
 - [Plotting the step response of a system](https://www.mikelopez.io/post/plotting-the-step-response-of-a-system)
 - [Robust pole assignment in linear state feedback](https://www.mikelopez.io/post/robust-pole-assignment-in-linear-state-feedback)
-- [Abaqus Elements](https://www.mikelopez.io/post/abaqus-elements)
 <!-- BLOG-POST-LIST:END --> 
 
 <!-- SKILLS-LIST:START -->
